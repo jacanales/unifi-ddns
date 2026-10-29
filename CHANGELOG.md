@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.5.1](https://github.com/jacanales/unifi-ddns/compare/v3.5.0...v3.5.1) (2026-10-29)
+
+
+### Bug Fixes
+
+* **security:** apply audit findings M1, M3, R1 and M4 ([aa059ee](https://github.com/jacanales/unifi-ddns/commit/aa059ee2a5b111305df056f1e23c9a1356b7faea))
+* **security:** apply audit findings M1, M3, R1 and M4 ([f7a3629](https://github.com/jacanales/unifi-ddns/commit/f7a3629d66cfff933553b6129766eecd6cdf3b59))
+
 ## [3.5.0](https://github.com/jacanales/unifi-ddns/compare/v3.4.0...v3.5.0) (2026-10-28)
 
 

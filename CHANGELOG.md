@@ -1,5 +1,20 @@
 # Changelog
 
+## [3.5.0](https://github.com/jacanales/unifi-ddns/compare/v3.4.0...v3.5.0) (2026-10-28)
+
+
+### Features
+
+* allow to override target hostname ([99ef9da](https://github.com/jacanales/unifi-ddns/commit/99ef9da05bff9c8bf4c167a987e6e3e715a768c8))
+* **pnpm:** migrate repository to pnpm ([67bf262](https://github.com/jacanales/unifi-ddns/commit/67bf2621c1f4fdc36452085159ae028fc3ded056))
+
+
+### Bug Fixes
+
+* **ci:** remove empty with block left by pnpm version cleanup ([bc5c3df](https://github.com/jacanales/unifi-ddns/commit/bc5c3df8406d984661ee1126e458e9b7fc935777))
+* **ci:** remove explicit pnpm version conflicting with packageManager field ([a662f72](https://github.com/jacanales/unifi-ddns/commit/a662f725f905efc0cb3e85880653aa8d89dcc4b1))
+* **docs:** improve documentation and logging ([6413442](https://github.com/jacanales/unifi-ddns/commit/6413442d8fc4842bbe0031ae9b566e82070dfcb5))
+
 ## [3.4.0](https://github.com/jacanales/unifi-ddns/compare/v3.3.1...v3.4.0) (2026-10-28)
 
 
